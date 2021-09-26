@@ -1,0 +1,376 @@
+@media screen and (max-width: 1000px) {
+    #testata {
+      display: none;
+    }
+  }
+        #testata{
+            border: 0px;      
+            width: 1000px;
+            border-radius: 5px;
+            margin: 0 auto;
+            padding: 4px;
+            background-color: rgb(255, 255, 255);
+            font-family: "Lucida Grande", " Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+           text-align: center;      
+        }
+        #Titolo{
+          font-size: 28px;
+          letter-spacing: 1px;
+          line-height: 28px;
+          color: black;
+        }
+        #sopratitolo{
+          font-size: 20px;
+          letter-spacing: 2px;
+          line-height: 20px;
+          font-weight: 500; 
+          color: #808080
+        }
+        #Sottotitoli{
+          font-size: 13px;
+          color: #808080;
+        }
+        #Repubblica{
+          width:200px;
+          height:100px;
+          margin: 15px;
+        }
+        #certiquality{
+          width:125px;
+        }
+       
+	
+	.plessi{
+    	font: 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	text-align: left;
+   		 border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 border-width: 2px;
+		 padding: 8px;
+    	background-color: #E4E5E0;
+    	margin: 10px 50px;
+		
+  	}
+
+  .indirizzi{
+    	
+    	text-align: left;
+    	border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 border-width: 2px;
+		 padding: 8px;
+    	background-color: #E4E5E0;
+    	font: normal 14px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	margin: 20px 50px;
+  }
+
+  .indirizziProfessionali{
+    	
+    	text-align: left;
+    	border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 border-width: 2px;
+		 padding: 8px;
+    	background-color: #E4E5E0;
+   		 font: normal 14px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	margin: 20px 50px;
+  }
+
+  .ponSinistra{
+    	
+    	color: black;
+    	text-align: left;
+    	border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 border-width: 2px;
+		 padding: 8px;
+    	background-color: #E4E5E0;
+    	font: normal 14px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	margin: 20px 50px;
+  } 
+
+ #ImmaginePON{
+   		 width: 175px;   
+    
+  }
+  .casellaPon2014-2020{
+    	border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    	color: #3377BB;
+    	text-align: center;
+		margin: 10px 50px;
+		padding: 8px;
+    	font: normal 14px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	margin-bottom: 40px;
+		margin-right: 40px;
+		margin-left: 40px;
+  }
+  #Pon2014-2020{
+    	width: 175px;}
+  
+
+  .casellaCorsoDocentiSicurezza{
+    	
+    	color: #3377BB;
+    	text-align: center;
+    	border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    	font: normal 12px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    	margin-bottom: 40px;
+		margin-right: 40px;
+		margin-left: 40px;
+}
+
+  #CorsoSicurezza{
+    width: 150px;      
+  }
+
+  .casellaTourVirtuale{
+    border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    color: #3377BB;
+    text-align: center;
+    
+    font: normal 12px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+  }
+  #TourVirtuale{
+    text-align: center;
+    width: 200px;  
+  }
+  .caselleLaScuolaOnline{
+    
+    text-align: center;
+    border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    font: normal 12px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+  }
+  #ClasseViva{
+    text-align: center;
+    width: 200px;    
+  }
+  #albo_online{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;        
+  }
+  #AmministrazioneTrasparente{
+    text-align: center;
+    margin-top: 10px;
+    width: 200px;     
+  }
+  #Comunicati{
+    text-align: center;
+    margin-top: 10px;
+    width: 200px;        
+  }
+  #ScuolaETerritorio{
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 200px;         
+  }
+  .EducazioneCivica
+  {
+    text-align: center;
+    border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    font: normal 12px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+
+  }
+  #Educazione_Civica{
+    text-align: center;
+    width: 180px;
+  }
+  
+  
+  .Moodle{
+    
+    text-align: center;
+    border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+    margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+  }
+  #Moodle{
+   text-align: center;
+   width: 200px;         
+  }
+  .Bionet{
+   
+   text-align: center;
+  border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+   margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+  }
+  #Bionet{
+   text-align: center;
+   width: 200px;         
+  }
+
+    #centro{
+   max-width: 1500px;
+    height: auto;
+    
+	
+    padding: 4px;
+    background-color: white;
+  }
+
+    .RisorseDDI{
+                
+   border-radius: 4px;
+   color: #3377BB;
+   text-align: left;
+   background-color: #F2F2F2;
+   font-family: 12px "Lucida Grande", " Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+   margin: 10px 50px;
+   width: auto;              
+}
+
+    .Home{             
+   text-align: left;
+   border: 10px ;
+   		 border-radius: 10px;
+		 border-style: solid;
+		 border-color: #7b002c;
+		 padding: 8px;
+		 border-width: 2px;
+    	background-color: #E4E5E0;
+   font-family:12px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+   margin: 10px 50px;
+   width: auto; 
+}
+
+
+    .finePagina{
+      margin-top: 20px;
+      text-align: center;
+      font-weight: 100px;
+      color: black;
+	  
+      
+}
+    .Privacy{
+		margin-top: 20px;;
+      text-align: center;
+}
+   #PrivacyPolice{
+
+		background-color: black;
+		color: white;
+}
+   #CookiePolice{
+	background-color: black;
+		color: white;
+
+}
+
+#Home1{
+  background-color: #7b002c;
+  border-radius: 10px;
+  color: white;
+}
+
+#Cerca{
+  height: 34px;
+  border-radius: 90px;
+  border-color: #0000;
+  border-style: solid;
+  border-width: thin;
+ 
+}
+
+#england{
+  background-color: grey;
+  border-radius: 90px;
+  height: 25px;
+  margin-top: 10px;
+  margin-left: 10px;
+
+}
+
+#navbarDropdown
+{
+  font-size: 13px;
+  font-family: 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+  margin-top: 5px;
+  color: white;
+ 
+}
+.dropdown-item{
+  font-size: 12px;
+  font-family: 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+  background-color: white;
+  border:1px solid;
+}
+#copertura{
+          text-align: center;
+          padding: 5px;
+          max-width: 1100px;
+          margin: auto;
+        }
+        #menu{
+          width: 100%;
+          height: auto;
+          background-color: #7b002c;
+        }
+        #barra{
+          padding-bottom: 10px;
+		  max-width: 1050px;
+		  margin: auto;
+        }
